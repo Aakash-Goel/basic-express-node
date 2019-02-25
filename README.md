@@ -1,6 +1,6 @@
 # Basic Express Node
 
-This is an example of express application with [node.js][1] and [express][2]. The site is [hosted on Heroku][6].
+This is an example of express application with [node.js][1] and [express][2].
 
 A very basic setup which includes:
 1. running the node server by express package.
