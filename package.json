@@ -1,0 +1,15 @@
+{
+  "name": "basic-express-node",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aakash Goel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
